@@ -1,0 +1,136 @@
+Results of training
+Trained on trainingSet.txt
+Tested on trainingSet.txt
+bad guess ['will', 'be', 'back', 'again']: actual: 0, expected: 1
+bad guess ['they', 'know', 'how', 'to', 'make', 'them', 'here']: actual: 0, expected: 1
+bad guess ['i', 'would', 'definitely', 'recommend', 'the', 'wings', 'as', 'well', 'as', 'the', 'pizza']: actual: 0, expected: 1
+bad guess ['i', 'did', 'not', 'expect', 'this', 'to', 'be', 'so', 'good']: actual: 0, expected: 1
+bad guess ['the', 'only', 'downside', 'is', 'the', 'service']: actual: 1, expected: 0
+bad guess ['this', 'is', 'a', 'disgrace']: actual: 1, expected: 0
+bad guess ['left', 'very', 'frustrated']: actual: 1, expected: 0
+bad guess ['ill', 'definitely', 'be', 'in', 'soon', 'again']: actual: 0, expected: 1
+bad guess ['i', 'will', 'be', 'back', 'many', 'times', 'soon']: actual: 0, expected: 1
+bad guess ['if', 'you', 'look', 'for', 'authentic', 'thai', 'food', 'go', 'else', 'where']: actual: 1, expected: 0
+bad guess ['we', 'made', 'the', 'drive', 'all', 'the', 'way', 'from', 'north', 'scottsdale', 'and', 'i', 'was', 'not', 'one', 'bit', 'disappointed']: actual: 0, expected: 1
+bad guess ['i', 'cant', 'wait', 'to', 'go', 'back']: actual: 0, expected: 1
+bad guess ['2', 'thumbs', 'up']: actual: 0, expected: 1
+bad guess ['never', 'had', 'anything', 'to', 'complain', 'about', 'here']: actual: 0, expected: 1
+bad guess ['the', 'service', 'here', 'is', 'fair', 'at', 'best']: actual: 1, expected: 0
+bad guess ['now', 'the', 'burgers', 'arent', 'as', 'good', 'the', 'pizza', 'which', 'used', 'to', 'be', 'amazing', 'is', 'doughy', 'and', 'flavorless']: actual: 1, expected: 0
+
+Data:
+Guessed Sentiment:   483
+Guessed Incorrect Sentiment: 16
+
+Accuracy (Sanity Check):  0.9679358717434869
+
+Results of testing
+Trained on trainingSet.txt
+Tested on testSet.txt
+bad guess ['this', 'was', 'like', 'the', 'final', 'blow']: actual: 1, expected: 0
+bad guess ['i', 'found', 'this', 'place', 'by', 'accident', 'and', 'i', 'could', 'not', 'be', 'happier']: actual: 0, expected: 1
+bad guess ['seems', 'like', 'a', 'good', 'quick', 'place', 'to', 'grab', 'a', 'bite', 'of', 'some', 'familiar', 'pub', 'food', 'but', 'do', 'yourself', 'a', 'favor', 'and', 'look', 'elsewhere']: actual: 1, expected: 0
+bad guess ['service', 'sucks']: actual: 1, expected: 0
+bad guess ['the', 'portion', 'was', 'huge']: actual: 0, expected: 1
+bad guess ['the', 'heart', 'attack', 'grill', 'in', 'downtown', 'vegas', 'is', 'an', 'absolutely', 'flatlined', 'excuse', 'for', 'a', 'restaurant']: actual: 1, expected: 0
+bad guess ['the', 'salad', 'had', 'just', 'the', 'right', 'amount', 'of', 'sauce', 'to', 'not', 'over', 'power', 'the', 'scallop', 'which', 'was', 'perfectly', 'cooked']: actual: 0, expected: 1
+bad guess ['the', 'deal', 'included', '5', 'tastings', 'and', '2', 'drinks', 'and', 'jeff', 'went', 'above', 'and', 'beyond', 'what', 'we', 'expected']: actual: 0, expected: 1
+bad guess ['the', 'pan', 'cakes', 'everyone', 'are', 'raving', 'about', 'taste', 'like', 'a', 'sugary', 'disaster', 'tailored', 'to', 'the', 'palate', 'of', 'a', 'six', 'year', 'old']: actual: 1, expected: 0
+bad guess ['this', 'is', 'one', 'of', 'the', 'better', 'buffets', 'that', 'i', 'have', 'been', 'to']: actual: 0, expected: 1
+bad guess ['check', 'it', 'out']: actual: 0, expected: 1
+bad guess ['ive', 'had', 'better', 'atmosphere']: actual: 1, expected: 0
+bad guess ['my', 'husband', 'and', 'i', 'ate', 'lunch', 'here', 'and', 'were', 'very', 'disappointed', 'with', 'the', 'food', 'and', 'service']: actual: 1, expected: 0
+bad guess ['this', 'really', 'is', 'how', 'vegas', 'fine', 'dining', 'used', 'to', 'be', 'right', 'down', 'to', 'the', 'menus', 'handed', 'to', 'the', 'ladies', 'that', 'have', 'no', 'prices', 'listed']: actual: 0, expected: 1
+bad guess ['the', 'service', 'here', 'leaves', 'a', 'lot', 'to', 'be', 'desired']: actual: 1, expected: 0
+bad guess ['love', 'this', 'place', 'hits', 'the', 'spot', 'when', 'i', 'want', 'something', 'healthy', 'but', 'not', 'lacking', 'in', 'quantity', 'or', 'flavor']: actual: 0, expected: 1
+bad guess ['when', 'my', 'order', 'arrived', 'one', 'of', 'the', 'gyros', 'was', 'missing']: actual: 1, expected: 0
+bad guess ['the', 'warm', 'beer', 'didnt', 'help']: actual: 1, expected: 0
+bad guess ['ive', 'lived', 'here', 'since', '1979', 'and', 'this', 'was', 'the', 'first', 'and', 'last', 'time', 'ive', 'stepped', 'foot', 'into', 'this', 'place']: actual: 1, expected: 0
+bad guess ['must', 'have', 'been', 'an', 'off', 'night', 'at', 'this', 'place']: actual: 1, expected: 0
+bad guess ['extremely', 'tasty']: actual: 0, expected: 1
+bad guess ['the', 'folks', 'at', 'otto', 'always', 'make', 'us', 'feel', 'so', 'welcome', 'and', 'special']: actual: 0, expected: 1
+bad guess ['the', 'descriptions', 'said', 'yum', 'yum', 'sauce', 'and', 'another', 'said', 'eel', 'sauce', '', 'yet', 'another', 'said', 'spicy', 'mayo', 'well', 'none', 'of', 'the', 'rolls', 'had', 'sauces', 'on', 'them']: actual: 1, expected: 0
+bad guess ['much', 'better', 'than', 'the', 'other', 'ayce', 'sushi', 'place', 'i', 'went', 'to', 'in', 'vegas']: actual: 0, expected: 1
+bad guess ['the', 'goat', 'taco', 'didnt', 'skimp', 'on', 'the', 'meat', 'and', 'wow', 'what', 'flavor']: actual: 0, expected: 1
+bad guess ['i', 'went', 'to', 'bachi', 'burger', 'on', 'a', 'friends', 'recommendation', 'and', 'was', 'not', 'disappointed']: actual: 0, expected: 1
+bad guess ['this', 'place', 'is', 'not', 'quality', 'sushi', 'it', 'is', 'not', 'a', 'quality', 'restaurant']: actual: 1, expected: 0
+bad guess ['please', 'stay', 'away', 'from', 'the', 'shrimp', 'stir', 'fried', 'noodles']: actual: 1, expected: 0
+bad guess ['you', 'wont', 'be', 'disappointed']: actual: 0, expected: 1
+bad guess ['there', 'is', 'nothing', 'authentic', 'about', 'this', 'place']: actual: 1, expected: 0
+bad guess ['it', 'shouldnt', 'take', '30', 'min', 'for', 'pancakes', 'and', 'eggs']: actual: 1, expected: 0
+bad guess ['sadly', 'gordon', 'ramseys', 'steak', 'is', 'a', 'place', 'we', 'shall', 'sharply', 'avoid', 'during', 'our', 'next', 'trip', 'to', 'vegas']: actual: 1, expected: 0
+bad guess ['best', 'fish', 'ive', 'ever', 'had', 'in', 'my', 'life']: actual: 0, expected: 1
+bad guess ['this', 'place', 'deserves', 'one', 'star', 'and', '90', 'has', 'to', 'do', 'with', 'the', 'food']: actual: 1, expected: 0
+bad guess ['def', 'coming', 'back', 'to', 'bowl', 'next', 'time']: actual: 0, expected: 1
+bad guess ['to', 'summarize', 'the', 'food', 'was', 'incredible', 'nay', 'transcendant', 'but', 'nothing', 'brings', 'me', 'joy', 'quite', 'like', 'the', 'memory', 'of', 'the', 'pneumatic', 'condiment', 'dispenser']: actual: 0, expected: 1
+bad guess ['this', 'one', 'is', 'simply', 'a', 'disappointment']: actual: 1, expected: 0
+bad guess ['i', 'dont', 'know', 'what', 'kind', 'it', 'is', 'but', 'they', 'have', 'the', 'best', 'iced', 'tea']: actual: 0, expected: 1
+bad guess ['i', 'can', 'assure', 'you', 'that', 'you', 'wont', 'be', 'disappointed']: actual: 0, expected: 1
+bad guess ['furthermore', 'you', 'cant', 'even', 'find', 'hours', 'of', 'operation', 'on', 'the', 'website']: actual: 1, expected: 0
+bad guess ['no', 'complaints']: actual: 0, expected: 1
+bad guess ['if', 'youre', 'not', 'familiar', 'check', 'it', 'out']: actual: 0, expected: 1
+bad guess ['this', 'was', 'my', 'first', 'and', 'only', 'vegas', 'buffet', 'and', 'it', 'did', 'not', 'disappoint']: actual: 0, expected: 1
+bad guess ['the', 'one', 'down', 'note', 'is', 'the', 'ventilation', 'could', 'use', 'some', 'upgrading']: actual: 1, expected: 0
+bad guess ['third', 'the', 'cheese', 'on', 'my', 'friends', 'burger', 'was', 'cold']: actual: 1, expected: 0
+bad guess ['the', 'selection', 'of', 'food', 'was', 'not', 'the', 'best']: actual: 1, expected: 0
+bad guess ['it', 'was', 'attached', 'to', 'a', 'gas', 'station', 'and', 'that', 'is', 'rarely', 'a', 'good', 'sign']: actual: 1, expected: 0
+bad guess ['the', 'menu', 'had', 'so', 'much', 'good', 'stuff', 'on', 'it', 'i', 'could', 'not', 'decide']: actual: 0, expected: 1
+bad guess ['conclusion', 'very', 'filling', 'meals']: actual: 0, expected: 1
+bad guess ['the', 'pancake', 'was', 'also', 'really', 'good', 'and', 'pretty', 'large', 'at', 'that']: actual: 0, expected: 1
+bad guess ['id', 'rather', 'eat', 'airline', 'food', 'seriously']: actual: 1, expected: 0
+bad guess ['i', 'dont', 'each', 'much', 'pasta', 'but', 'i', 'love', 'the', 'homemade', 'hand', 'made', 'pastas', 'and', 'thin', 'pizzas', 'here']: actual: 0, expected: 1
+bad guess ['point', 'your', 'finger', 'at', 'any', 'item', 'on', 'the', 'menu', 'order', 'it', 'and', 'you', 'wont', 'be', 'disappointed']: actual: 0, expected: 1
+bad guess ['first', 'time', 'there', 'and', 'might', 'just', 'be', 'the', 'last']: actual: 1, expected: 0
+bad guess ['i', 'had', 'the', 'opportunity', 'today', 'to', 'sample', 'your', 'amazing', 'pizzas']: actual: 0, expected: 1
+bad guess ['not', 'even', 'a', 'hello', 'we', 'will', 'be', 'right', 'with', 'you']: actual: 1, expected: 0
+bad guess ['i', 'guess', 'maybe', 'we', 'went', 'on', 'an', 'off', 'night', 'but', 'it', 'was', 'disgraceful']: actual: 1, expected: 0
+bad guess ['however', 'my', 'recent', 'experience', 'at', 'this', 'particular', 'location', 'was', 'not', 'so', 'good']: actual: 1, expected: 0
+bad guess ['i', 'heart', 'this', 'place']: actual: 0, expected: 1
+bad guess ['i', 'will', 'never', 'go', 'back', 'to', 'this', 'place', 'and', 'will', 'never', 'ever', 'recommended', 'this', 'place', 'to', 'anyone']: actual: 1, expected: 0
+bad guess ['an', 'hour', 'seriously']: actual: 1, expected: 0
+bad guess ['the', 'pizza', 'tasted', 'old', 'super', 'chewy', 'in', 'not', 'a', 'good', 'way']: actual: 1, expected: 0
+bad guess ['as', 'for', 'the', 'service', 'im', 'a', 'fan', 'because', 'its', 'quick', 'and', 'youre', 'being', 'served', 'by', 'some', 'nice', 'folks']: actual: 0, expected: 1
+bad guess ['omg', 'i', 'felt', 'like', 'i', 'had', 'never', 'eaten', 'thai', 'food', 'until', 'this', 'dish']: actual: 0, expected: 1
+bad guess ['couldnt', 'ask', 'for', 'a', 'more', 'satisfying', 'meal']: actual: 0, expected: 1
+bad guess ['any', 'grandmother', 'can', 'make', 'a', 'roasted', 'chicken', 'better', 'than', 'this', 'one']: actual: 1, expected: 0
+bad guess ['same', 'evening', 'him', 'and', 'i', 'are', 'both', 'drastically', 'sick']: actual: 1, expected: 0
+bad guess ['tried', 'to', 'go', 'here', 'for', 'lunch', 'and', 'it', 'was', 'a', 'madhouse']: actual: 1, expected: 0
+bad guess ['it', 'was', 'just', 'not', 'a', 'fun', 'experience']: actual: 0, expected: 1
+bad guess ['very', 'convenient', 'since', 'we', 'were', 'staying', 'at', 'the', 'mgm']: actual: 0, expected: 1
+bad guess ['the', 'sweet', 'potato', 'tots', 'were', 'good', 'but', 'the', 'onion', 'rings', 'were', 'perfection', 'or', 'as', 'close', 'as', 'i', 'have', 'had']: actual: 0, expected: 1
+bad guess ['i', 'promise', 'they', 'wont', 'disappoint']: actual: 0, expected: 1
+bad guess ['as', 'a', 'sushi', 'lover', 'avoid', 'this', 'place', 'by', 'all', 'means']: actual: 1, expected: 0
+bad guess ['i', 'gave', 'it', '5', 'stars', 'then', 'and', 'im', 'giving', 'it', '5', 'stars', 'now']: actual: 0, expected: 1
+bad guess ['the', 'steak', 'was', 'amazingrge', 'fillet', 'relleno', 'was', 'the', 'best', 'seafood', 'plate', 'i', 'have', 'ever', 'had']: actual: 0, expected: 1
+bad guess ['i', 'work', 'in', 'the', 'hospitality', 'industry', 'in', 'paradise', 'valley', 'and', 'have', 'refrained', 'from', 'recommending', 'cibo', 'any', 'longer']: actual: 1, expected: 0
+bad guess ['that', 'said', 'our', 'mouths', 'and', 'bellies', 'were', 'still', 'quite', 'pleased']: actual: 0, expected: 1
+bad guess ['after', 'one', 'bite', 'i', 'was', 'hooked']: actual: 0, expected: 1
+bad guess ['one', 'nice', 'thing', 'was', 'that', 'they', 'added', 'gratuity', 'on', 'the', 'bill', 'since', 'our', 'party', 'was', 'larger', 'than', '6', 'or', '8', 'and', 'they', 'didnt', 'expect', 'more', 'tip', 'than', 'that']: actual: 0, expected: 1
+bad guess ['there', 'was', 'a', 'warm', 'feeling', 'with', 'the', 'service', 'and', 'i', 'felt', 'like', 'their', 'guest', 'for', 'a', 'special', 'treat']: actual: 0, expected: 1
+bad guess ['i', 'got', 'to', 'enjoy', 'the', 'seafood', 'salad', 'with', 'a', 'fabulous', 'vinegrette']: actual: 0, expected: 1
+bad guess ['the', 'wontons', 'were', 'thin', 'not', 'thick', 'and', 'chewy', 'almost', 'melt', 'in', 'your', 'mouth']: actual: 0, expected: 1
+bad guess ['the', 'service', 'was', 'poor', 'and', 'thats', 'being', 'nice']: actual: 1, expected: 0
+bad guess ['the', 'place', 'was', 'not', 'clean', 'and', 'the', 'food', 'oh', 'so', 'stale']: actual: 1, expected: 0
+bad guess ['one', 'of', 'the', 'few', 'places', 'in', 'phoenix', 'that', 'i', 'would', 'definately', 'go', 'back', 'to', 'again', '']: actual: 0, expected: 1
+bad guess ['so', 'in', 'a', 'nutshell', '1', 'the', 'restaraunt', 'smells', 'like', 'a', 'combination', 'of', 'a', 'dirty', 'fish', 'market', 'and', 'a', 'sewer']: actual: 1, expected: 0
+bad guess ['i', 'dont', 'have', 'very', 'many', 'words', 'to', 'say', 'about', 'this', 'place', 'but', 'it', 'does', 'everything', 'pretty', 'well']: actual: 0, expected: 1
+bad guess ['when', 'i', 'received', 'my', 'pita', 'it', 'was', 'huge', 'it', 'did', 'have', 'a', 'lot', 'of', 'meat', 'in', 'it', 'so', 'thumbs', 'up', 'there']: actual: 0, expected: 1
+bad guess ['im', 'super', 'pissd']: actual: 1, expected: 0
+bad guess ['i', 'can', 'say', 'that', 'the', 'desserts', 'were', 'yummy']: actual: 0, expected: 1
+bad guess ['do', 'yourself', 'a', 'favor', 'and', 'stay', 'away', 'from', 'this', 'dish']: actual: 1, expected: 0
+bad guess ['food', 'is', 'way', 'overpriced', 'and', 'portions', 'are', 'fucking', 'small']: actual: 1, expected: 0
+bad guess ['for', '40', 'bucks', 'a', 'head', 'i', 'really', 'expect', 'better', 'food']: actual: 1, expected: 0
+bad guess ['in', 'fact', 'im', 'going', 'to', 'round', 'up', 'to', '4', 'stars', 'just', 'because', 'she', 'was', 'so', 'awesome']: actual: 0, expected: 1
+bad guess ['i', 'found', 'a', 'six', 'inch', 'long', 'piece', 'of', 'wire', 'in', 'my', 'salsa']: actual: 1, expected: 0
+bad guess ['i', 'seriously', 'cannot', 'believe', 'that', 'the', 'owner', 'has', 'so', 'many', 'unexperienced', 'employees', 'that', 'all', 'are', 'running', 'around', 'like', 'chickens', 'with', 'their', 'heads', 'cut', 'off']: actual: 1, expected: 0
+bad guess ['this', 'place', 'is', 'disgusting']: actual: 1, expected: 0
+bad guess ['the', 'tables', 'outside', 'are', 'also', 'dirty', 'a', 'lot', 'of', 'the', 'time', 'and', 'the', 'workers', 'are', 'not', 'always', 'friendly', 'and', 'helpful', 'with', 'the', 'menu']: actual: 1, expected: 0
+bad guess ['the', 'only', 'reason', 'to', 'eat', 'here', 'would', 'be', 'to', 'fill', 'up', 'before', 'a', 'night', 'of', 'binge', 'drinking', 'just', 'to', 'get', 'some', 'carbs', 'in', 'your', 'stomach']: actual: 1, expected: 0
+bad guess ['insults', 'profound', 'deuchebaggery', 'and', 'had', 'to', 'go', 'outside', 'for', 'a', 'smoke', 'break', 'while', 'serving', 'just', 'to', 'solidify', 'it']: actual: 1, expected: 0
+bad guess ['i', 'would', 'avoid', 'this', 'place', 'if', 'you', 'are', 'staying', 'in', 'the', 'mirage']: actual: 1, expected: 0
+
+Data:
+Guessed Sentiment:   396
+Guessed Incorrect Sentiment: 101
+
+Accuracy (Sanity Check):  0.7967806841046278
